@@ -14,32 +14,32 @@ I’m currently working on model compression and acceleration, including:
 - 🖥️ Inference acceleration of LLMs and MLLMs.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
+- *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://arxiv.org/html/2406.10576v1/extracted/5669159/imgs/overview5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[(🎈NEW)**Optimization-based Structural Pruning for Large Language Models without Back-Propagation**](https://arxiv.org/abs/2406.10576)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yuan Gao, **Zujing Liu**, Weizhong Zhang, Bo Du, Gui-Song Xia
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel optimization-based structural pruning method for LLM that optimizes directly for model loss.
+- Learning pruning mask using Bernoulli distribution via policy gradient estimator to avoid back-propagation.
+- Superior performance compared to existing techniques, with efficient computation on a single GPU.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (2021), National Endeavor Scholarship, Outstanding Students of Wuhan University (2021)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
+- *2019.09 - 2023.06*, B.Eng. in Computer Science, School of Computer, Wuhan University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**I'm actively seeking internship and visiting opportunities 🥺🤗**
