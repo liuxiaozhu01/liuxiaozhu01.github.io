@@ -27,7 +27,7 @@ I’m currently working on model compression and inference acceleration on LLMs 
 <p style="font-size: 1.2em; margin-top: 15px"><b>I'm actively seeking internship and visiting opportunities 🥺🤗</b></p>
 
 # 🔥 News
-- *2024.06*: &nbsp; 🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
+- *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
 - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
 - *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends!
 
