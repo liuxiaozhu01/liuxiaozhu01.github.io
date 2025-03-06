@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋. This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/). I obtained my bachelor degree in Computer Science and Technology also in Wuhan University and got the honor degree from Hongyi Honor College.
+Hi there 👋. This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/). I obtained my bachelor degree in Computer Science and Technology also in Wuhan University and got the Honor Degree from Hongyi Honor College.
 
 I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
 - 🔭 Structural Pruning, Knowledge Distillation and Quantization.
@@ -27,6 +27,7 @@ I’m currently working on model compression and inference acceleration on LLMs 
 <p style="font-size: 1.2em; margin-top: 15px"><b>I'm actively seeking internship and visiting opportunities 🥺🤗</b></p>
 
 # 🔥 News
+- *2024.06*: &nbsp; 🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
 - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
 - *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends!
 
@@ -54,7 +55,7 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 - *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (Top 10%), National Endeavor Scholarship (Top 15%), Outstanding Students of Wuhan University (Top 10%)
 
 # 📖 Educations
-- *2023.06 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
+- *2023.09 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
 - *2019.09 - 2023.06*, B.Eng. in Computer Science, School of Computer, Wuhan University
 
 <!-- # 💻 Internships
