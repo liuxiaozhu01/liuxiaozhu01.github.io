@@ -52,7 +52,7 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 
 
 # 🎖 Honors and Awards
-- *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (Top 10%), National Endeavor Scholarship (Top 15%), Outstanding Students of Wuhan University (Top 10%)
+- *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (Top 10%), Outstanding Students of Wuhan University (Top 10%)
 
 # 📖 Educations
 - *2023.09 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
