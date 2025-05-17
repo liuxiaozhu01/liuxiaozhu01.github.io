@@ -19,14 +19,19 @@ redirect_from:
 
 Hi there 👋. This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/). I obtained my bachelor degree in Computer Science and Technology also in Wuhan University and got the Honor Degree from Hongyi Honor College.
 
-I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
+<!-- I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
 - 🔭 Structural Pruning, Knowledge Distillation and Quantization.
-- 🖥️ KV Cache Optimization and Implicit Chain of Thought (CoT) Inference
+- 🖥️ KV Cache Optimization and Implicit Chain of Thought (CoT) Inference -->
 
-# 💻 Internships
-<p style="font-size: 1.2em; margin-top: 15px"><b>I'm actively seeking internship and visiting opportunities 🥺🤗</b></p>
+Currently, I'm working on MLLM reasoning, including:
+- 🔭 Reasoning with images and videos, built upon Reinforcement Learning (RL)
+
+Befor that, I conducted research on model compression and inference acceleration on LLMs and MLLMs, including:
+- 🌲 Structural Pruning, Knowledge Distillation and Quantization | KV Cache Optimization.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers got accepted by ACL 2025.
+- *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
 - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
 - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
 - *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends!
@@ -36,7 +41,7 @@ I’m currently working on model compression and inference acceleration on LLMs 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://arxiv.org/html/2406.10576v1/extracted/5669159/imgs/overview5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[(🎈NEW)**Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient**](https://arxiv.org/abs/2406.10576)
+[**Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient**](https://arxiv.org/abs/2406.10576) (ACL 2025 Main Conference)
 
 Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Song Xia
 
@@ -58,5 +63,6 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 - *2023.09 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
 - *2019.09 - 2023.06*, B.Eng. in Computer Science, School of Computer, Wuhan University
 
-<!-- # 💻 Internships
-**I'm actively seeking internship and visiting opportunities 🥺🤗** -->
+# 💻 Internships
+<!-- **I'm actively seeking internship and visiting opportunities 🥺🤗** -->
+- *2025.04 - (now)*, ByteDance Application Algorithm, Research Intern.
