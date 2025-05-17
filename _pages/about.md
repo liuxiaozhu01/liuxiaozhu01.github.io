@@ -33,6 +33,7 @@ Befor that, I conducted research on model compression and inference acceleration
 - *2025.05*: &nbsp;🎉🎉 One papers got accepted by ACL 2025.
 - *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
 - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
+
 <!-- - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
 - *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends! -->
 
