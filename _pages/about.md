@@ -27,14 +27,14 @@ Currently, I'm working on MLLM reasoning, including:
 - 🔭 Reasoning with images and videos, built upon Reinforcement Learning (RL)
 
 Befor that, I conducted research on model compression and inference acceleration on LLMs and MLLMs, including:
-- 🌲 Structural Pruning, Knowledge Distillation and Quantization | KV Cache Optimization.
+- 🌲 Structural Pruning, Knowledge Distillation and Quantization. KV Cache Optimization.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Two papers got accepted by ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 One papers got accepted by ACL 2025.
 - *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
 - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
-- *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
-- *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends!
+<!-- - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
+- *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends! -->
 
 # 📝 Publications 
 
@@ -65,4 +65,4 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 
 # 💻 Internships
 <!-- **I'm actively seeking internship and visiting opportunities 🥺🤗** -->
-- *2025.04 - (now)*, ByteDance Application Algorithm, Research Intern.
+- *2025.04 - (now)*, Business Integrity at ByteDance, Research Intern.
